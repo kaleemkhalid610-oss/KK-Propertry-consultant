@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Seh Hada Jaat.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Seh Hada Jaat</name>
+		<Placemark>
+			<name>352/16 Kila no 4</name>
+			<description>617132.14 </description>
+			<Camera>
+				<longitude>70.19327195265755</longitude>
+				<latitude>28.20645232828325</latitude>
+				<altitude>2038.590994639514</altitude>
+				<heading>88.00944682915159</heading>
+				<tilt>0.1056825710920419</tilt>
+				<roll>89.06556026800848</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19502712988445,28.20656404484422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>353/12 Kila NO 13</name>
+			<Camera>
+				<longitude>70.19205953029883</longitude>
+				<latitude>28.19700993602482</latitude>
+				<altitude>656.8777072864614</altitude>
+				<heading>88.04561472082565</heading>
+				<tilt>0.1056161314671577</tilt>
+				<roll>89.32769868514258</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19152771433679,28.19696388264312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>392/4 Kila no 5</name>
+			<Camera>
+				<longitude>70.21221781287498</longitude>
+				<latitude>28.20606703883995</latitude>
+				<altitude>1352.052872180438</altitude>
+				<heading>89.60067195005908</heading>
+				<tilt>0.1055218006267421</tilt>
+				<roll>90.19495082160698</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.21256580767884,28.2068881059705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>394/12 Kila No 21</name>
+			<Camera>
+				<longitude>70.21754091849387</longitude>
+				<latitude>28.18426314382371</latitude>
+				<altitude>1231.635600078929</altitude>
+				<heading>89.81232821873348</heading>
+				<tilt>0.1055294695684862</tilt>
+				<roll>90.17839406938052</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.21718412968465,28.18285624141161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>414/7 Kila No 1</name>
+			<Camera>
+				<longitude>70.22728834087984</longitude>
+				<latitude>28.18665113027768</latitude>
+				<altitude>1309.301704515022</altitude>
+				<heading>89.6525596238056</heading>
+				<tilt>0.1055478337831206</tilt>
+				<roll>91.36870698392745</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.22732510809047,28.18778409803344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>414/11 Kila no2</name>
+			<Camera>
+				<longitude>70.23106380087948</longitude>
+				<latitude>28.18649425060474</latitude>
+				<altitude>1174.365261559193</altitude>
+				<heading>88.75497189159549</heading>
+				<tilt>0.1055115736830464</tilt>
+				<roll>89.34023378944759</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.23204400530273,28.18798540362032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>329/6 Kila no 1</name>
+			<Camera>
+				<longitude>70.17223513959843</longitude>
+				<latitude>28.24359304776248</latitude>
+				<altitude>1364.467497191581</altitude>
+				<heading>134.7462360588079</heading>
+				<tilt>0.1489086039137087</tilt>
+				<roll>134.9069077249999</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.17178270933137,28.24449356229888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>329/7 Kila No 1</name>
+			<Camera>
+				<longitude>70.17271394114452</longitude>
+				<latitude>28.24025814288581</latitude>
+				<altitude>1767.93783929198</altitude>
+				<heading>89.38919923171576</heading>
+				<tilt>0.1054328825059763</tilt>
+				<roll>89.54921027783082</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.17182465240441,28.24180347641574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>355/11 Kila No 10</name>
+			<Camera>
+				<longitude>70.19187010713004</longitude>
+				<latitude>28.17614019907607</latitude>
+				<altitude>1125.027968883018</altitude>
+				<heading>88.95426665220717</heading>
+				<tilt>0.1054111009419518</tilt>
+				<roll>89.55649294536148</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19002204849589,28.17600063870645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>355/10 Kila no 25</name>
+			<Camera>
+				<longitude>70.19577828341666</longitude>
+				<latitude>28.16520994926956</latitude>
+				<altitude>1337.502217813756</altitude>
+				<heading>88.69106615839084</heading>
+				<tilt>0.1053679161911045</tilt>
+				<roll>89.51663667573555</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19296770362673,28.16607350452362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>394/8 Kila No 25</name>
+			<Camera>
+				<longitude>70.21719906301367</longitude>
+				<latitude>28.18411058253096</latitude>
+				<altitude>1193.357676795667</altitude>
+				<heading>89.11407235311569</heading>
+				<tilt>0.1053614873976659</tilt>
+				<roll>90.15528080043705</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.21629808871349,28.18287314259133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>356/11 Kila No 5</name>
+			<Camera>
+				<longitude>70.19276259454726</longitude>
+				<latitude>28.16420681656542</latitude>
+				<altitude>1191.482225210687</altitude>
+				<heading>88.54440023162309</heading>
+				<tilt>0.1053504495168925</tilt>
+				<roll>89.59694514869506</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19291137795612,28.16558659187832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>337/12 Kila No 21</name>
+			<Camera>
+				<longitude>70.1789305809217</longitude>
+				<latitude>28.15111569110195</latitude>
+				<altitude>1514.040571007753</altitude>
+				<heading>89.06696606865637</heading>
+				<tilt>0.1053139646226854</tilt>
+				<roll>90.12563339757419</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.17674888515704,28.14985866767156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>349/9 Kila No 18</name>
+			<Camera>
+				<longitude>70.19040169439062</longitude>
+				<latitude>28.24346195593537</latitude>
+				<altitude>804.6704562285386</altitude>
+				<heading>-0.9326291557443418</heading>
+				<tilt>10.43256760298538</tilt>
+				<roll>0.5815508455398497</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.19014239022565,28.24567981151791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>351/8 Kila No 8</name>
+			<Camera>
+				<longitude>70.18783430781581</longitude>
+				<latitude>28.21535721201341</latitude>
+				<altitude>907.9375699414092</altitude>
+				<heading>0.2659727198328167</heading>
+				<tilt>6.917583850574935</tilt>
+				<roll>0.8747643105202731</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>70.18743658501845,28.2167121058819,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
